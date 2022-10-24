@@ -1,1 +1,18 @@
 
+[{
+        "id": 1,
+        "companyName": "Flipkart ",
+        "ceoName": "Kalyan Krishnamurthy",
+        "imageLink": "https://pbs.twimg.com/profile_images/1154421883552407552/d74yFwi4_400x400.jpg",
+        "Nationality": "Indian",
+        "origin":"Indian",
+    },
+{
+        "id": 2,
+        "companyName": "Mamaearth ",
+        "ceoName": "Ghazal Alagh",
+        "imageLink": "https://www.edudwar.com/wp-content/uploads/2022/02/Ghazal-Alagh-Biography-1.jpg",
+        "Nationality": "Indian",
+        "origin":"Indian",
+    },
+]
